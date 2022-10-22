@@ -1881,7 +1881,7 @@ h6 {
 }
 .box .id {
   align-items: center;
-  padding: 78px;
+  padding: 20px;
 }
 
 @media screen and (max-width: 480px) {
